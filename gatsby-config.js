@@ -6,6 +6,8 @@ module.exports = {
 
     `gatsby-plugin-react-helmet`,
     `gatsby-plugin-sitemap`,
+    `gatsby-trasformer-sharp`,
+    `gatsby-plugin-sharp`,
 
     {
         resolve: `gatsby-plugin-nprogress`,
