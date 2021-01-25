@@ -12,6 +12,22 @@ Customized structure Expertise Soluctions for development of static websites wit
 
 _Server Model [When possible to put the server link here](https://github.com/expertisesolutions/quickstart-gatsby-site/)._
 
+#
+
+
+<p align="center">
+  <a href="https://graphql.org/">
+    <img alt="Gatsby" src="https://github.com/expertisesolutions/quickstart-gatsby-site-graphql/blob/master/static/graphQl.png?raw=true" width="60" />
+  </a>
+</p>
+
+After starting the project, according to the "start" tab, you can accept the grapQl ide in the following url:
+   ```shell
+> http://localhost:8000/___graphql
+  ```
+
+#
+
 ## 🚀 start
 
 1.  **Starting to developing.**
@@ -49,6 +65,7 @@ _Server Model [When possible to put the server link here](https://github.com/exp
     _Note: You'll also see a second link: _`http://localhost:8000/___graphql`_. This is a tool you can use to experiment with querying your data. Learn more about using this tool in the [Gatsby tutorial](https://www.gatsbyjs.com/tutorial/part-five/#introducing-graphiql)._
 
     Open the `quickstart-gatsby-site` directory in your code editor of choice and edit `src/pages/index.js`. Save your changes and the browser will update in real time!
+
 
 ## 🧐 What's inside?
 
@@ -95,7 +112,7 @@ A quick look at the top-level files and directories you'll see in a Gatsby proje
 
 13. **`README.md`**:A text file containing useful reference information about the project.
 
-## Plugins and gatsby-config.js
+## ⚙️ Plugins and gatsby-config.js
 
 1. **`siteMetadata`**: When you want to reuse common pieces of data across the site (for example, your site title), you can store that data in siteMetadata, path ./config/metadata.js.
 1. **`gatsby-plugin-react-helmet`**:Provides drop-in support for server rendering data added with React Helmet (uses react-helmet).
