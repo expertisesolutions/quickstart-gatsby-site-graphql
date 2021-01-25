@@ -17,7 +17,7 @@ _Server Model [When possible to put the server link here](https://github.com/exp
 
 <p align="center">
   <a href="https://graphql.org/">
-    <img alt="Gatsby" src="https://github.com/expertisesolutions/quickstart-gatsby-site-graphql/blob/master/static/graphQl.png?raw=true" width="60" />
+    <img alt="Gatsby" src="https://github.com/expertisesolutions/quickstart-gatsby-site-graphql/blob/master/static/graphQl.png?raw=true" width="150" />
   </a>
 </p>
 
